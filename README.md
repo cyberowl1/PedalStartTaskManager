@@ -27,3 +27,5 @@ npm install
 
 npm start
 ```
+## 
+![Screenshot 2024-07-02 at 3 42 58 PM](https://github.com/cyberowl1/PedalStartTaskManager/assets/15086260/fe3915ff-5c0e-403e-b00d-4ca1b8f2de3c)
